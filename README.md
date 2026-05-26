@@ -1,4 +1,5 @@
 # SQL Field List Formatter
+![Extension Icon](https://raw.githubusercontent.com/sethwaltersfis/field_list_formatter/refs/heads/main/icon.png)
 
 A SQL-aware Visual Studio Code extension created to format cluttered, single-line, or poorly organized SQL selection lists into (arguably better looking) predictable structures.
 
