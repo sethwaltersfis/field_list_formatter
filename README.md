@@ -28,7 +28,7 @@ Whether you need fields cleanly aligned in multi-column grids or isolated into s
 
 ### Installing the Prebuilt `.vsix`
 
-1. Download the current `field-list-formatter` .vsix file from the repository releases.
+1. Download the current `sql-field-list-formatter` .vsix file from the repository releases.
 2. Launch Visual Studio Code.
 3. Open the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`) and select **Extensions: Install from VSIX...**.
 4. Navigate to and select the downloaded `.vsix` file to finish installation.
